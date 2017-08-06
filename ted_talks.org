@@ -1,0 +1,123 @@
+#+TITLE: Recording Ted Talks
+#+AUTHOR: Jose R. Hernandez
+#+DATE: July 17, 2017
+
+* 2017
+** July
+*** Thursday, July 6, 2017
+**** Title: [[https://www.ted.com/talks/michael_bierut_how_to_design_a_library_that_makes_kids_want_to_read][How to design a library that makes kids want to read]]
+Presenter: Michael Beirut
+*** Friday, July 7, 2017
+**** Title: [[https://www.ted.com/talks/rhiannon_giddens_3_songs_that_bring_history_to_life][Songs that bring history to life]]
+Presenter: Rhiannon Giddens
+*** Saturday, July 8, 2017
+**** Title: [[https://www.youtube.com/watch?v%3DN9HF8mMe2pU][No one should die because they live too far from a doctor]]
+Presenter: Raj Panjabi 
+*** Sunday, July 9, 2017
+**** Title: [[https://www.ted.com/talks/marlon_peterson_am_i_not_human_a_call_for_criminal_justice_reform][Am I not human]]
+Presenter: Marlon Peterson
+*** Tuesday, July 11, 2017
+**** Title:[[https://www.youtube.com/watch?v%3DKJPpJhQxaLw][How pollution is changing the oceans chemistry]]
+Presenter: Trina McGrath
+*** Title:[[https://www.youtube.com/watch?v%3D_B1JmOerYmY][Why I speak up about living with epilepsy]]
+Presenter: Sitawa Wafula
+*** Wednesday, July 12, 2017
+**** Title: [[https://www.youtube.com/watch?v%3DqKJv4S5peJQ][What happens to the brain when you pay attention?]]
+Presenter: Mehdi Ordikhani-Seyedlar
+*** Thursday, July 13, 2017
+**** Title: [[https://www.youtube.com/watch?v%3DHf_zXx09IB8][To Understand autism don't look away]]
+Presenter: Carina Morillo
+*** Sunday, July 16, 2017
+**** Title: How Fake News Does Real Harm
+Presenter: Stephanie Busari
+URL: [[https://www.youtube.com/watch?v%3DlwVYaY39YbQ][How Fake News Does Real Harm]]
+
+*** Monday, July 17, 2017
+**** Title: [[https://www.youtube.com/watch?v%3D0ztdofPc8Rw][Behind The Lies Of Holocaust Denial]]
+Presenter: Deborah Lipstadt
+
+*** Title: [[https://www.youtube.com/watch?v%3D5J6jAC6XxAI][Why You Should Define Your Fears Instead Of Your Goals]]
+Presenter: Tim Ferriss
+
+*** Title: [[https://www.youtube.com/watch?v%3DTO-_kVIkY6A][How (and Why) Russia Hacked The US Election]]
+Presenter: Laura Galante
+
+*** Tuesday, July 18, 2017
+**** Title: [[https://www.ted.com/talks/todd_scott_an_intergalactic_guide_to_using_a_defibrillator][An Intergalactic Guide To Using A Defibrillator]]
+Presenter: Todd Scott
+
+*** Wednesday, July 19, 2017
+**** Title: [[https://www.ted.com/talks/adam_alter_why_our_screens_make_us_less_happy][Why our screens are making us less happy]]
+Presenter: Adam Alter
+
+*** Thursday, July 20, 2017
+**** Title:[[https://www.youtube.com/watch?v%3DQ6U69HbAF9Y][How I built a jet suit]]
+Presenter: Richard Browning
+
+*** Saturday, July 22, 2017
+**** Title: [[https://www.youtube.com/watch?v%3DX41iulkRqZU][12 Truths I learned from life and writing]]
+Presenter: Anne Lamont
+
+*** Title: [[https://www.youtube.com/watch?v%3Dn3kNlFMXslo][How to gain control of your free time]]
+Presenter: Laura Vanderkam
+
+*** Monday, July 24, 2017
+**** Title: [[https://www.youtube.com/watch?v%3DBvpmZktlBFs][There's No Shame In Take Care Of Your Mental Health]]
+Presenter: Sangu Delle
+*** Tuesday, July 25, 2017
+**** Title: [[https://www.youtube.com/watch?v%3DsFIDCtRX_-o][How we can find yourselves in data]]
+presenter: Giorgia Lupi 
+*** Friday, July 28, 2017
+**** Title: What Rivers can tell us abou the earth's history
+Presenter: Liz Hajek
+*** Title: How we can face the future without fear, together
+Presenter: Jonathan Sacks
+Notes: Great talk
+*** Title: Why design should include everyone
+Presenter: Sinead Burke
+*** Sunday, July 30, 2017
+**** Title: [[https://www.youtube.com/watch?v%3Df2O6mQkFiiw][How to practice effectively...for just about anything]]
+Presenter: Annie Bosler and Don Greene
+*** Title: [[https://www.youtube.com/watch?v%3D-moW9jvvMr4][A simple way to break a bad habit]]
+Presenter: Judson Brewe
+*** Title: [[https://www.youtube.com/watch?v%3DeIho2S0ZahI][How to speak so people want to listen]]
+Presenter: Julian Treasure
+*** Monday, July 31, 2017
+**** Title: [[https://www.youtube.com/watch?v%3DnbYQ7kdt0U4][A simple birth kit for mothers in the developing world]]
+Presenter: Zubaida Bai
+** August
+*** Tuesday, August 1, 2017
+**** Title: [[https://www.ted.com/talks/titus_kaphar_can_art_amend_history][Can Art Amend History?]]
+Presenter: Titus Kaphar
+*** Wedenesday, August 2, 2017
+**** Title: [[https://www.ted.com/talks/jennifer_pluznick_you_smell_with_your_body_not_just_your_nose][You smell with your body, not just your nose]]
+Presenter: Jennifer Pluznick
+*** Thursday, August 3, 2017
+**** Title: [[https://www.youtube.com/watch?v%3D6wNif5SlN08][Don't feel sorry for refugees -- believe in them]]
+Presenter: Luma Mufleh
+*** Friday, August 4, 2017
+**** Title: [[https://www.youtube.com/watch?v%3DPrK0CifulU0][Hamilton Vs Madison and the birth of American partisanship]]
+Presenter: Noah Feldman
+*** Saturday, August 5, 2017
+**** Title: [[https://www.youtube.com/watch?v%3DSSZG5aPkZyM][How I Fail At Being Disabled]]
+Presenter: Susan Robinson
+*** Sunday, August 6, 2017
+*** Monday, August 7, 2017
+*** Tuesday, August 8, 2017
+*** Wednesday, August 9, 2017
+*** Thursday, August 10, 2017
+*** Friday, August 11, 2017
+*** Saturday, August 12, 2017
+*** Sunday, August 13, 2017
+*** Monday, August 14, 2017
+*** Tuesday, August 15, 2017
+*** Wednesday, August 16, 2017
+*** Thursday, August 17, 2017
+*** Friday, August 18, 2017
+*** Saturday, August 19, 2017
+*** Sunday, August 20, 2017
+*** Monday, August 21, 2017
+*** Tuesday, August 22, 2017
+*** Wednesday, August 23, 2017
+*** Thursday, Augusut 24, 2017
+*** Friday, August 25, 2017
