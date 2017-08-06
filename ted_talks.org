@@ -17,9 +17,9 @@ Presenter: Raj Panjabi
 **** Title: [[https://www.ted.com/talks/marlon_peterson_am_i_not_human_a_call_for_criminal_justice_reform][Am I not human]]
 Presenter: Marlon Peterson
 *** Tuesday, July 11, 2017
-**** Title:[[https://www.youtube.com/watch?v%3DKJPpJhQxaLw][How pollution is changing the oceans chemistry]]
+**** Title: [[https://www.youtube.com/watch?v%3DKJPpJhQxaLw][How pollution is changing the oceans chemistry]]
 Presenter: Trina McGrath
-*** Title:[[https://www.youtube.com/watch?v%3D_B1JmOerYmY][Why I speak up about living with epilepsy]]
+**** Title: [[https://www.youtube.com/watch?v%3D_B1JmOerYmY][Why I speak up about living with epilepsy]]
 Presenter: Sitawa Wafula
 *** Wednesday, July 12, 2017
 **** Title: [[https://www.youtube.com/watch?v%3DqKJv4S5peJQ][What happens to the brain when you pay attention?]]
@@ -28,39 +28,32 @@ Presenter: Mehdi Ordikhani-Seyedlar
 **** Title: [[https://www.youtube.com/watch?v%3DHf_zXx09IB8][To Understand autism don't look away]]
 Presenter: Carina Morillo
 *** Sunday, July 16, 2017
-**** Title: How Fake News Does Real Harm
+**** Title: [[https://www.ted.com/talks/stephanie_busari_how_fake_news_does_real_harm][How Fake News Does Real Harm]]
 Presenter: Stephanie Busari
-URL: [[https://www.youtube.com/watch?v%3DlwVYaY39YbQ][How Fake News Does Real Harm]]
-
 *** Monday, July 17, 2017
 **** Title: [[https://www.youtube.com/watch?v%3D0ztdofPc8Rw][Behind The Lies Of Holocaust Denial]]
 Presenter: Deborah Lipstadt
-
-*** Title: [[https://www.youtube.com/watch?v%3D5J6jAC6XxAI][Why You Should Define Your Fears Instead Of Your Goals]]
+**** Title: [[https://www.youtube.com/watch?v%3D5J6jAC6XxAI][Why You Should Define Your Fears Instead Of Your Goals]]
 Presenter: Tim Ferriss
-
-*** Title: [[https://www.youtube.com/watch?v%3DTO-_kVIkY6A][How (and Why) Russia Hacked The US Election]]
+**** Title: [[https://www.youtube.com/watch?v%3DTO-_kVIkY6A][How (and Why) Russia Hacked The US Election]]
 Presenter: Laura Galante
-
 *** Tuesday, July 18, 2017
 **** Title: [[https://www.ted.com/talks/todd_scott_an_intergalactic_guide_to_using_a_defibrillator][An Intergalactic Guide To Using A Defibrillator]]
 Presenter: Todd Scott
-
 *** Wednesday, July 19, 2017
 **** Title: [[https://www.ted.com/talks/adam_alter_why_our_screens_make_us_less_happy][Why our screens are making us less happy]]
 Presenter: Adam Alter
 
 *** Thursday, July 20, 2017
-**** Title:[[https://www.youtube.com/watch?v%3DQ6U69HbAF9Y][How I built a jet suit]]
+**** Title: [[https://www.youtube.com/watch?v%3DQ6U69HbAF9Y][How I built a jet suit]]
 Presenter: Richard Browning
 
 *** Saturday, July 22, 2017
 **** Title: [[https://www.youtube.com/watch?v%3DX41iulkRqZU][12 Truths I learned from life and writing]]
 Presenter: Anne Lamont
 
-*** Title: [[https://www.youtube.com/watch?v%3Dn3kNlFMXslo][How to gain control of your free time]]
+**** Title: [[https://www.youtube.com/watch?v%3Dn3kNlFMXslo][How to gain control of your free time]]
 Presenter: Laura Vanderkam
-
 *** Monday, July 24, 2017
 **** Title: [[https://www.youtube.com/watch?v%3DBvpmZktlBFs][There's No Shame In Take Care Of Your Mental Health]]
 Presenter: Sangu Delle
@@ -68,19 +61,19 @@ Presenter: Sangu Delle
 **** Title: [[https://www.youtube.com/watch?v%3DsFIDCtRX_-o][How we can find yourselves in data]]
 presenter: Giorgia Lupi 
 *** Friday, July 28, 2017
-**** Title: What Rivers can tell us abou the earth's history
+**** Title: [[https://www.ted.com/talks/liz_hajek_what_rivers_can_tell_us_about_the_earth_s_history][What Rivers Can Tell Us About The Earth's History]]
 Presenter: Liz Hajek
-*** Title: How we can face the future without fear, together
+**** Title: [[https://www.ted.com/talks/rabbi_lord_jonathan_sacks_how_we_can_face_the_future_without_fear_together][How we can face the future without fear, together]]
 Presenter: Jonathan Sacks
 Notes: Great talk
-*** Title: Why design should include everyone
+**** Title: [[https://www.youtube.com/watch?v%3DRD_SLJG7oi8][Why Design Should Include Everyone]]
 Presenter: Sinead Burke
 *** Sunday, July 30, 2017
 **** Title: [[https://www.youtube.com/watch?v%3Df2O6mQkFiiw][How to practice effectively...for just about anything]]
 Presenter: Annie Bosler and Don Greene
-*** Title: [[https://www.youtube.com/watch?v%3D-moW9jvvMr4][A simple way to break a bad habit]]
+**** Title: [[https://www.youtube.com/watch?v%3D-moW9jvvMr4][A simple way to break a bad habit]]
 Presenter: Judson Brewe
-*** Title: [[https://www.youtube.com/watch?v%3DeIho2S0ZahI][How to speak so people want to listen]]
+**** Title: [[https://www.youtube.com/watch?v%3DeIho2S0ZahI][How to speak so people want to listen]]
 Presenter: Julian Treasure
 *** Monday, July 31, 2017
 **** Title: [[https://www.youtube.com/watch?v%3DnbYQ7kdt0U4][A simple birth kit for mothers in the developing world]]
