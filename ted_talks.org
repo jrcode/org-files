@@ -102,6 +102,8 @@ Presenter: Ari Wallach
 **** Title: [[https://www.ted.com/talks/joseph_redmon_how_a_computer_learns_to_recognize_objects_instantly][How Computers Learn To Recognize Objects instantly]]
 Presenter: Joseph Redmon
 *** Tuesday, August 8, 2017
+**** Title: [[https://www.youtube.com/watch?v%3DmguvTfAw4wk][How cohousing can make use happier (and live longer)]]
+Presenter: Grace Kim
 *** Wednesday, August 9, 2017
 *** Thursday, August 10, 2017
 *** Friday, August 11, 2017
