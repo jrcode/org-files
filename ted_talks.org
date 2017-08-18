@@ -135,7 +135,12 @@ Presenter: Meg jay
 **** Title: [[https://www.ted.com/talks/ronald_sullivan_how_i_help_free_innocent_people_from_prison][How I help free innocent people from prison]]
 Presenter: Ronald Sullivan
 *** Thursday, August 17, 2017
+**** Title: [[https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email][This is what happens when you reply to spam email]] 
+Presenter: James Veitch
 *** Friday, August 18, 2017
+**** Title: [[https://www.ted.com/talks/richard_j_berry_a_practical_way_to_help_the_homeless_find_work_and_safety][A practical way to help the homeless find work and safety]]
+Presenter: Richard J. Berry
+
 *** Saturday, August 19, 2017
 *** Sunday, August 20, 2017
 *** Monday, August 21, 2017
