@@ -155,6 +155,8 @@ Presenter: Robert Waldinger
 **** Title: [[https://www.ted.com/talks/anika_paulson_how_i_found_myself_through_music][How I found myself through music]]
 Presenter: Anika Paulson
 *** Wednesday, August 23, 2017
+**** Title: [[https://www.ted.com/talks/jon_gosier_the_problem_with_trickle_down_techonomics][The problem with "trickle-down techonomics"]]
+Presenter: Jon Gosier
 *** Thursday, Augusut 24, 2017
 *** Friday, August 25, 2017
 *** Saturday, August 26, 2017
