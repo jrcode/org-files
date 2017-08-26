@@ -1,4 +1,3 @@
-
 #+TITLE: Recording Ted Talks
 #+AUTHOR: Jose R. Hernandez
 #+DATE: July 17, 2017
@@ -161,6 +160,8 @@ Presenter: Jon Gosier
 **** Title: [[https://www.ted.com/talks/carolyn_jones_a_tribute_to_nurses][A Tribute to nurses]]
 Presenter: Carolyn Jones
 *** Friday, August 25, 2017
+**** Title: [[https://www.youtube.com/watch?v%3DultonpeO0ZA][Meet the microscopic life in your home - and on your face]]
+Presenter: Anne Madden
 *** Saturday, August 26, 2017
 *** Sunday, August 27, 2017
 *** Monday, August 28, 2017
