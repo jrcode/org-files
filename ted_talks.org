@@ -225,6 +225,11 @@ Presenter: Eman Mohammed
 *** Friday, September 22, 2017
 *** Saturday, September 23, 2017
 *** Sunday, September 24, 2017
+*** Monday, September 25, 2017
+*** Tuesday, September 26, 2017
+**** Title: [[https://www.ted.com/talks/mei_lin_neo_the_fascinating_secret_lives_of_giant_clams][The fascinating secret lives of giant clams]]
+Presenter: Mei Lin Neo
+
 ** October
 ** November
 ** December
