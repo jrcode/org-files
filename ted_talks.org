@@ -236,6 +236,8 @@ Presenter: Karoliina Korppoo
 **** Title: Google's driveless car
 Presenter: Sebastian Thrun 
 *** Thursday, September 28, 2017
+**** Title: [[https://www.ted.com/talks/christian_rodriguez_what_teen_pregnancy_looks_like_in_latin_america#t-275940][What teen pregnancy looks like in Latin America]]
+Presenter: Christian Rodriguez
 *** Friday, September 29, 2017
 *** Saturday, September 30, 2017
 ** October
