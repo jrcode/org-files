@@ -226,5 +226,7 @@ Presenter: Christian Rodriguez
 **** Title: [[https://www.ted.com/talks/jessa_gamble_how_to_sleep][Our natural sleep cycle is nothing like what we do now]]
 Presenter: Jessa Gamble
 *** Tuesday, October 3, 2017
+**** Title: [[https://www.ted.com/talks/julio_gil_future_tech_will_give_you_the_benefits_of_city_life_anywhere][Future tech will give you the benefits of city life anywhere]]
+Presenter: Julio Gil
 ** November
 ** December
