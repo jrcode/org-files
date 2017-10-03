@@ -121,8 +121,6 @@ Push Yourself - Physically and mentally push yourself
 Serve
 Ideas
 Persist
-*** Saturday, August 12, 2017
-*** Sunday, August 13, 2017
 *** Monday, August 14, 2017
 **** Title: [[https://www.ted.com/talks/david_baron_you_owe_it_to_yourself_to_experience_a_total_solar_eclipse][You owe it to yourself to experience a total solar eclipse]]
 Presenter: David Baron
@@ -166,7 +164,6 @@ Presenter: Anne Madden
 **** Title: [[https://www.youtube.com/watch?v%3D2vE-elqTGlQ][The stories behind The New Yorker's iconic covers]]
 Presenter: Francoise Mouly
 
-*** Sunday, August 27, 2017
 *** Monday, August 28, 2017
 **** Title: [[https://www.youtube.com/watch?v%3DgbDraZi7F_4][Courage is contagious]]
 Presenter: Damon Davis
@@ -181,10 +178,6 @@ Presenter: Iyad Rahwan
 **** Title:[[https://www.ted.com/talks/lee_mokobe_a_powerful_poem_about_what_it_feels_like_to_be_transgender/transcript?language%3Den][A powerful poem about what it feels like to be transgender]]
 Presenter: Lee Mokobe
 ** September
-*** Friday, September 01, 2017
-*** Saturday, September 02, 2017
-*** Sunday, September 03, 2017
-*** Monday, September 04, 2017
 *** Tuesday, September 05, 2017
 **** Title: [[https://www.ted.com/talks/chris_anderson_teds_secret_to_great_public_speaking][TED's secret to great public speaking]]
 Presenter: Chris Anderson
@@ -197,8 +190,6 @@ Presenter: Lara Setrakian
 *** Friday, September 08, 2017
 **** Title:[[https://www.ted.com/talks/erin_marie_saltman_how_young_people_join_violent_extremist_groups_and_how_to_stop_them][How young people join violent extremist groups -- and how to stop them]]
 Presenter: Erin Marie Saltman
-*** Saturday, September 09, 2017
-*** Sunday, September 10, 2017
 *** Monday, September 11, 2017
 **** Title: [[https://www.ted.com/talks/jedidah_isler_how_i_fell_in_love_with_quasars_blazars_and_our_incredible_universe/transcript?language%3Den][How I fell in love with quasars, blazars and our incrdible universe]]
 Presenter: Jedidah Isler
@@ -215,17 +206,9 @@ Presenter: Emily Esfahani Smith
 *** Saturday, September 16, 2017
 **** Title: [[https://www.ted.com/talks/augie_picado_the_real_reason_manufacturing_jobs_are_disappearing][The real reason manufacturing jobs are disappearing]]
 Presenter: Augie Picado
-*** Sunday, September 17, 2017
 *** Monday, September 18, 2017
 **** Title: [[https://www.ted.com/talks/eman_mohammed_the_courage_to_tell_a_hidden_story][The courage to tell a hidden story]]
 Presenter: Eman Mohammed
-*** Tuesday, September 19, 2017
-*** Wednesday, September 20, 2017
-*** Thursday, September 21, 2017
-*** Friday, September 22, 2017
-*** Saturday, September 23, 2017
-*** Sunday, September 24, 2017
-*** Monday, September 25, 2017
 *** Tuesday, September 26, 2017
 **** Title: [[https://www.ted.com/talks/mei_lin_neo_the_fascinating_secret_lives_of_giant_clams][The fascinating secret lives of giant clams]]
 Presenter: Mei Lin Neo
@@ -238,10 +221,10 @@ Presenter: Sebastian Thrun
 *** Thursday, September 28, 2017
 **** Title: [[https://www.ted.com/talks/christian_rodriguez_what_teen_pregnancy_looks_like_in_latin_america#t-275940][What teen pregnancy looks like in Latin America]]
 Presenter: Christian Rodriguez
-*** Friday, September 29, 2017
-*** Saturday, September 30, 2017
 ** October
-*** Sunday, October 1, 2017
 *** Monday, October 2, 2017
+**** Title: [[https://www.ted.com/talks/jessa_gamble_how_to_sleep][Our natural sleep cycle is nothing like what we do now]]
+Presenter: Jessa Gamble
+*** Tuesday, October 3, 2017
 ** November
 ** December
