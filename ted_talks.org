@@ -231,5 +231,9 @@ Presenter: Julio Gil
 *** Wednesday, October 4, 2017
 **** Title: [[https://www.ted.com/talks/nabila_alibhai_why_people_of_different_faiths_are_painting_their_houses_of_worship_yellow][Why people of different faiths are painting their houses of worship yellow]]
 Presenter: Nabila Alibhai
+*** Monday, October 16, 2017
+**** Title: [[https://www.ted.com/talks/paul_tasner_how_i_became_an_entrepreneur_at_66][How I became an entrepreneur at 66]]
+Presenter: Paul Tasner
+
 ** November
 ** December
