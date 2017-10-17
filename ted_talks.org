@@ -235,5 +235,8 @@ Presenter: Nabila Alibhai
 **** Title: [[https://www.ted.com/talks/paul_tasner_how_i_became_an_entrepreneur_at_66][How I became an entrepreneur at 66]]
 Presenter: Paul Tasner
 
+*** Tuesday, October 17, 2017
+**** Title: [[https://www.ted.com/talks/elizabeth_wayne_we_can_hack_our_immune_cells_to_fight_cancer][We can hack our immune cells to fight cancer]]
+Presenter: Elizabeth Wayne 
 ** November
 ** December
