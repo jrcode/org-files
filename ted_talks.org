@@ -238,5 +238,8 @@ Presenter: Paul Tasner
 *** Tuesday, October 17, 2017
 **** Title: [[https://www.ted.com/talks/elizabeth_wayne_we_can_hack_our_immune_cells_to_fight_cancer][We can hack our immune cells to fight cancer]]
 Presenter: Elizabeth Wayne 
+*** Wednesday, October 18, 2017
+**** Title: [[https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days][Try something new for 30 days]]
+Presenter: Matt Cutts
 ** November
 ** December
